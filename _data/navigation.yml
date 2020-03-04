@@ -1,0 +1,12 @@
+- name: Home
+  link: /#
+  classname: home
+- name: Reel
+  link: /#reel
+  classname: reel
+- name: About
+  link: /#about
+  classname: about
+- name: Other Work
+  link: /works.html
+  classname: work

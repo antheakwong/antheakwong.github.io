@@ -1,0 +1,19 @@
+collections:
+  works:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "works"
+    values:
+      layout: "works"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
