@@ -105,6 +105,10 @@ nav {
   font-family: $font-body;
   color: $primary-color;
 
+  @media only screen and (max-device-width: 640px) {
+    height: 90vh;
+  }
+
   #title-nav {
     font-weight: bold;
   }
