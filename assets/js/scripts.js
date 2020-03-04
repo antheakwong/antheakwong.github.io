@@ -7,8 +7,8 @@ $(function() {
 
 const anchor_offsets = {
   home: 0,
-  reel: $("#reel-div").offset().top
-  //about: $("#about-div").offset().top
+  reel: $("#reel-div").offset().top,
+  contact: $("#contact-div").offset().top
 };
 
 $(window).on("scroll", function() {
