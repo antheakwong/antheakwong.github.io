@@ -8,7 +8,8 @@ $color-teal: #0bc6b5;
 $color-dark-teal: #0d6f9c;
 $color-yellow: #f1e26f;
 $color-pechhhh: #FFD0AE;
-$font-size-mobile: 1.4em;
+$font-size-mobile: 1.6em;
+$font-size-mobile-heading: 2em;
 
 .low-highlight {
   background: linear-gradient(180deg,rgba(255,255,255,0) 35%, #FFD0AE 35%);
@@ -45,6 +46,12 @@ a:hover {
   font-size: 24px;
   width: 100%;
   text-align: left;
+}
+
+@media only screen and (max-device-width: 640px) {
+  .section-header {
+    font-size: $font-size-mobile-heading;
+  }
 }
 
 @keyframes bob {
@@ -215,6 +222,22 @@ nav {
       width: 35px;
       border-radius: 50%;
       border: 2px solid #f8f8f0;
+    }
+  }
+}
+
+@media only screen and (max-device-width: 640px) {
+  .profile {
+    img {
+      width: 70px;
+    }
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .profile {
+    img {
+      width: 70px;
     }
   }
 }
