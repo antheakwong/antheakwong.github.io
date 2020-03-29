@@ -1,9 +1,10 @@
-- name: Home
-  link: /#
-  classname: home
+
 - name: Reel
   link: /#reel
   classname: reel
+- name: Resume
+  link: /#resume
+  classname: resume
 - name: Contact
   link: /#contact
   classname: contact
