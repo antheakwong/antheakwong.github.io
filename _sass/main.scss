@@ -8,6 +8,7 @@ $color-teal: #0bc6b5;
 $color-dark-teal: #0d6f9c;
 $color-yellow: #f1e26f;
 $color-pechhhh: #FFD0AE;
+$font-size-mobile: 1.4em;
 
 .low-highlight {
   background: linear-gradient(180deg,rgba(255,255,255,0) 35%, #FFD0AE 35%);
@@ -21,6 +22,12 @@ body {
   font-size: 14px;
   color: $color-brown;
   scroll-behavior: smooth;
+}
+
+@media only screen and (max-device-width: 640px) {
+  html, body {
+    font-size: $font-size-mobile;
+  }
 }
 
 a {
@@ -235,7 +242,8 @@ nav {
     height: fit-content;
     margin: 0 auto;
     display: flex;
-    margin-bottom: 15px;
+    margin-bottom: 30px;
+
   }
   
   .profile {
@@ -288,8 +296,8 @@ nav {
   
     .text {
       position: relative;
-      padding-left: 40px;
-      padding-right: 40px;
+      padding-left: 50px;
+      padding-right: 50px;
       padding-top: 30px;
       padding-bottom: 40px;
       height: auto;
@@ -308,11 +316,71 @@ nav {
   }
 }
 
+@media only screen and (max-device-width: 640px) {
+
+  #hero {
+
+    padding-top: 10vh;
+    width: 100% !important;
+  
+    .welcome-container {
+      width: 100%;
+      height: fit-content;
+      position: static;
+      display: block;
+      padding-top: 30px;
+      padding-bottom: 50px;
+    }
+    
+    .profile {
+      width: fit-content;
+      height: fit-content;
+      margin: 0 auto;
+      display: block;
+      position: relative;
+    }
+    
+    .dialogue {
+      flex-grow: 0;
+      position: relative;
+      display: block;
+      margin: 0 auto;
+      width: 90%;
+      max-width: 100%;
+      height: fit-content;
+
+      .speaker {
+        top: -8px;
+        left: 8px;
+        transform: rotate(-7deg);
+        padding: 3px 15px 3px 15px;
+        position: absolute;
+        border-radius: 40px;
+        color: $color-beige;
+        z-index: 10;
+        font-size: 0.8em;
+      }
+    
+      .text {
+        margin: 0 auto;
+        width: fit-content;
+        height: fit-content;
+        position: relative;
+        padding-left: 70px;
+        padding-right: 70px;
+      }
+  
+    }
+
+    .description {
+      width: 100%;
+    }
+  }
+
+}
+
 /* SMALL SCREENS */
 @media only screen and (max-width: 640px) {
-  html,
-  body {
-  }
   
   #hero {
 
@@ -362,6 +430,10 @@ nav {
         height: fit-content;
         position: relative;
       }
+
+      .description {
+        width: 100%;
+      }
   
     }
   }
@@ -410,6 +482,14 @@ nav {
   @media only screen and (max-width: 640px) {
     margin-left: 0px;
     margin-right: 0px;
+
+    #description {
+      padding: 15px;
+      width: 100%;
+    }
+  }
+
+  @media only screen and (max-device-width: 640px) { 
 
     #description {
       padding: 15px;
