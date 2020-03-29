@@ -147,6 +147,8 @@ nav {
 
   #title-nav {
     width: fit-content;
+    opacity: 0;
+    transition: opacity 0.7s;
   }
 
   .transition {
