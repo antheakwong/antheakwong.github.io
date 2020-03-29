@@ -8,8 +8,8 @@ $color-teal: #0bc6b5;
 $color-dark-teal: #0d6f9c;
 $color-yellow: #f1e26f;
 $color-pechhhh: #FFD0AE;
-$font-size-mobile: 1.6em;
-$font-size-mobile-heading: 2em;
+$font-size-mobile: 1.4em;
+$font-size-mobile-heading: 1.8em;
 
 .low-highlight {
   background: linear-gradient(180deg,rgba(255,255,255,0) 35%, #FFD0AE 35%);
@@ -227,21 +227,15 @@ nav {
 }
 
 @media only screen and (max-device-width: 640px) {
-  .profile {
-    img {
-      width: 70px;
+  nav {
+    .profile {
+      img {
+        width: $font-size-mobile-heading !important;
+      }
     }
   }
+  
 }
-
-@media only screen and (max-width: 640px) {
-  .profile {
-    img {
-      width: 70px;
-    }
-  }
-}
-
 /* SMALL SCREENS: nav */
 @media only screen and (max-width: 640px) {
 
@@ -249,6 +243,14 @@ nav {
     .nav-item {
       padding: 10px 25px 10px 25px;
       margin-left: 0px;
+    }
+  }
+
+  #hero {
+    .profile {
+      img {
+        width: 30% !important;
+      }
     }
   }
   
@@ -356,11 +358,17 @@ nav {
     }
     
     .profile {
-      width: fit-content;
+      width: 100%;
       height: fit-content;
       margin: 0 auto;
       display: block;
       position: relative;
+      text-align: center;
+
+      img {
+        width: 30%;
+      }
+
     }
     
     .dialogue {
@@ -419,11 +427,12 @@ nav {
     }
     
     .profile {
-      width: fit-content;
+      width: 100%;
       height: fit-content;
       margin: 0 auto;
       display: block;
       position: relative;
+      text-align: center;
     }
     
     .dialogue {
@@ -507,7 +516,8 @@ nav {
     margin-right: 0px;
 
     #description {
-      padding: 15px;
+      padding-left: 30px;
+      padding-right: 30px;
       width: 100%;
     }
   }
@@ -515,7 +525,8 @@ nav {
   @media only screen and (max-device-width: 640px) { 
 
     #description {
-      padding: 15px;
+      padding-left: 30px;
+      padding-right: 30px;
       width: 100%;
     }
   }
