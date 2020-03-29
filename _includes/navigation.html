@@ -1,11 +1,15 @@
 <nav>
+  <div id="navbar-bg"></div>
   <div id="title-nav" class="menu">
-    <a href="/">anthea kwong</a>
+    <a href="/">
+      <div class="profile"><img src="assets/images/rosie.png"></div>
+    </a>
   </div>
   <div id="buttons-nav" class="menu">
     {% for item in site.data.navigation %}
 
-    <a href="{{ item.link }}" class={{item.classname}} {% if page.url == item.link %}class="current" {% endif %}>
+    <a href="{{ item.link }}" class="{{item.classname}}">
+
       <div class="nav-item">{{ item.name | downcase }}</div>
     </a>
     {% endfor %}

@@ -10,6 +10,7 @@ $(function () {
 const anchor_offsets = {
   home: 0,
   reel: $("#reel-div").offset().top - height * 0.3,
+  resume: $("#resume-div").offset().top - height * 0.3,
   contact: $("#contact-div").offset().top - height * 0.3
 };
 
@@ -28,10 +29,22 @@ $(window).on("scroll", function () {
 
   if (curr_offset > (height - 50)) {
     document.getElementById("title-nav").style.opacity = 1;
+    document.getElementById("navbar-bg").style.opacity = 1;
   }
 
   if (curr_offset < (height - 50)) {
     document.getElementById("title-nav").style.opacity = 0;
+    document.getElementById("navbar-bg").style.opacity = 0;
+  }
+
+  if (curr_offset > (height / 2)) {
+    document.getElementById("title-nav").style.opacity = 1;
+    document.getElementById("navbar-bg").style.opacity = 1;
+  }
+
+  if (curr_offset < (height / 2)) {
+    document.getElementById("title-nav").style.opacity = 0;
+    document.getElementById("navbar-bg").style.opacity = 0;
   }
 
 });
