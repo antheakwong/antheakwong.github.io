@@ -1,0 +1,26 @@
+---
+title: blog
+layout: blog
+---
+
+<div id="blog-container">
+
+    <div class="section-header">gallery</div>
+
+    <section id="photos">
+        {% for post in site.posts %}
+        <div class="post">
+            <a href="{{ post.url }}">
+                <img class="post-image" src="{{post.gallery-image}}">
+                <div class="post-info">
+                    <div class="post-text">
+                        <span class="article-title">{{ post.title }}</span>
+                        <div class="post-date">{{post.date | date: "%a, %b %d, %Y" }}</div>
+                        <div class="desc">{{ post.description }}</div>
+                    </div>
+                </div>
+            </a>
+        </div>
+        {% endfor %}
+    </section>
+</div>

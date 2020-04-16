@@ -80,6 +80,34 @@ title: Anthea Kwong's Portfolio
   </div>
 </div>
 
+<div id="gallery-div">
+  <div class="container">
+    <div class="section-header"><a name="gallery"></a>Illustrations & Other Work</div>
+
+    <section id="photos">
+      {% for post in site.posts limit:8 %}
+      <a class="article-title" href="{{ post.url }}">
+        <div class="post">
+          <img class="post-image" src="{{post.gallery-image}}">
+          <div class="post-info">
+            <div class="post-text">
+              <span class="article-title">{{ post.title }}</span>
+              <div class="post-date">{{post.date | date: "%a, %b %d, %Y" }}</div>
+            </div>
+          </div>
+        </div>
+      </a>
+      {% endfor %}
+    </section>
+
+    <div class="buttons">
+      <a href="/gallery">
+        <div class="blue-button">See more</div>
+      </a>
+    </div>
+  </div>
+</div>
+
 <div id="contact-div">
   <div class="container">
     <div class="section-header"><a name="contact"></a>Contact</div>
