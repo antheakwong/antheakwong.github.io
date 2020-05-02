@@ -8,6 +8,9 @@ layout: blog
     <div class="section-header">gallery</div>
 
     <section id="photos">
+        {% if site.posts.size == 0 %}
+        Coming soon! 
+        {% endif %}
         {% for post in site.posts %}
         <div class="post">
             <a href="{{ post.url }}">

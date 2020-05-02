@@ -5,9 +5,9 @@
 - name: Resume
   link: /#resume
   classname: resume
-- name: gallery
-  link: /gallery
-  classname: gallery
+# - name: gallery
+  # link: /gallery
+  # classname: gallery
 - name: Contact
   link: /#contact
   classname: contact

@@ -532,6 +532,32 @@ nav {
   }
 }
 
+#gallery-div {
+  text-align: center;
+  margin-top: 70px;
+  margin-left: 70px;
+  margin-bottom: 70px;
+  margin-right: 70px;
+  text-align: left;
+
+  h3 {
+    width: fit-content;
+    
+  }
+
+  @media only screen and (max-width: 640px) {
+    margin-left: 0px;
+    margin-right: 0px;
+
+  }
+
+  @media only screen and (max-device-width: 640px) { 
+
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+}
+
 #contact-div {
   text-align: center;
   margin-top: 70px;
