@@ -5,7 +5,7 @@ title: Anthea Kwong's Portfolio
 
 <div id="hero">
   <div class="welcome-container">
-    <div class="profile"><img src="assets/images/rosie.png"></div>
+    <div class="profile"><img src="assets/images/anthea.png"></div>
     <div class="dialogue">
       <div class="speaker">Anthea</div>
       <div class="bubble">
@@ -77,6 +77,41 @@ title: Anthea Kwong's Portfolio
         <div class="blue-button">Download Resume</div>
       </a>
     </div>
+  </div>
+</div>
+
+<!---  
+<div id="gallery-div">
+  <div class="container">
+    <div class="section-header"><a name="gallery"></a>Illustrations & Other Work</div>
+
+    <section id="photos">
+      {% if site.posts.size == 0 %}
+        Coming soon! 
+        {% endif %}
+      {% for post in site.posts limit:8 %}
+      <a class="article-title" href="{{ post.url }}">
+        <div class="post">
+          <img class="post-image" src="{{post.gallery-image}}">
+          <div class="post-info">
+            <div class="post-text">
+              <span class="article-title">{{ post.title }}</span>
+              <div class="post-date">{{post.date | date: "%a, %b %d, %Y" }}</div>
+            </div>
+          </div>
+        </div>
+      </a>
+      {% endfor %}
+    </section>
+    -->
+
+    {% if site.posts.size != 0 %}
+    <div class="buttons">
+      <a href="/gallery">
+        <div class="blue-button">See more</div>
+      </a>
+    </div>
+    {% endif %}
   </div>
 </div>
 

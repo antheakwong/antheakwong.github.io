@@ -9,3 +9,6 @@ defaults:
       layout: "default"
 
 theme: jekyll-theme-minimal
+
+paginate: 2
+paginator_path: "news/page:num"

@@ -11,6 +11,7 @@ const anchor_offsets = {
   home: 0,
   reel: $("#reel-div").offset().top - height * 0.3,
   resume: $("#resume-div").offset().top - height * 0.3,
+  gallery: $("#gallery-div").offset().top - height * 0.3,
   contact: $("#contact-div").offset().top - height * 0.3
 };
 
@@ -20,7 +21,8 @@ $(window).on("scroll", function () {
 
   for (var i = 0; i < Object.keys(anchor_offsets).length; i++) {
     let key = Object.keys(anchor_offsets)[i];
-    //console.log(window.location.hash);
+    console.log(curr_offset);
+    console.log("gallery div" + anchor_offsets["gallery"]);
     if (curr_offset >= anchor_offsets[key]) {
       $("a").removeClass("current");
       $("." + key).addClass("current");
@@ -31,8 +33,7 @@ $(window).on("scroll", function () {
     document.getElementById("title-nav").style.opacity = 1;
     document.getElementById("navbar-bg").style.opacity = 1;
   }
-
-  if (curr_offset < (height - 50)) {
+  else {
     document.getElementById("title-nav").style.opacity = 0;
     document.getElementById("navbar-bg").style.opacity = 0;
   }
@@ -41,8 +42,7 @@ $(window).on("scroll", function () {
     document.getElementById("title-nav").style.opacity = 1;
     document.getElementById("navbar-bg").style.opacity = 1;
   }
-
-  if (curr_offset < (height / 2)) {
+  else {
     document.getElementById("title-nav").style.opacity = 0;
     document.getElementById("navbar-bg").style.opacity = 0;
   }
