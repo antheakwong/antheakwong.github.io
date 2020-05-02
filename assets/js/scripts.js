@@ -11,7 +11,7 @@ const anchor_offsets = {
   home: 0,
   reel: $("#reel-div").offset().top - height * 0.3,
   resume: $("#resume-div").offset().top - height * 0.3,
-  gallery: $("#gallery-div").offset().top - height * 0.3,
+  // gallery: $("#gallery-div").offset().top - height * 0.3,
   contact: $("#contact-div").offset().top - height * 0.3
 };
 
