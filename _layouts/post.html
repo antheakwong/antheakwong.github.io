@@ -1,8 +1,22 @@
 ---
-layout: default
+layout: blog
 ---
 
-<h1>{{ page.title }}</h1>
-<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+<div id="blog-container">
 
-{{ content }}
+    <div class="section-header">{{ page.title }}</div>
+
+    {{ content }}
+
+    <section id="photos">
+        {% for image in page.images %}
+        <div class="post">
+                <a href="{{image}}">
+                    <img class="post-image" src="{{image}}">
+                </a>
+        </div>
+        {% endfor %}
+
+    </section>
+
+</div>

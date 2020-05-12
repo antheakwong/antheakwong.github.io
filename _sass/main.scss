@@ -1,15 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Nunito:700&display=swap");
-$main-font: "Nunito", sans-serif;
-$color-brown: #7a715d;
-$color-orange: #fc7618;
-$color-beige: #fffae4;
-$color-light-green: #88c9a1;
-$color-teal: #0bc6b5;
-$color-dark-teal: #0d6f9c;
-$color-yellow: #f1e26f;
-$color-pechhhh: #FFD0AE;
-$font-size-mobile: 1.4em;
-$font-size-mobile-heading: 1.8em;
+@import "_variables";
 
 .low-highlight {
   background: linear-gradient(180deg,rgba(255,255,255,0) 35%, #FFD0AE 35%);
@@ -241,7 +230,7 @@ nav {
 
   nav {
     .nav-item {
-      padding: 10px 25px 10px 25px;
+      padding: 5px 10px 5px 10px;
       margin-left: 0px;
     }
   }
