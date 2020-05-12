@@ -80,7 +80,6 @@ title: Anthea Kwong's Portfolio
   </div>
 </div>
 
-<!---  
 <div id="gallery-div">
   <div class="container">
     <div class="section-header"><a name="gallery"></a>Illustrations & Other Work</div>
@@ -96,16 +95,14 @@ title: Anthea Kwong's Portfolio
           <div class="post-info">
             <div class="post-text">
               <span class="article-title">{{ post.title }}</span>
-              <div class="post-date">{{post.date | date: "%a, %b %d, %Y" }}</div>
             </div>
           </div>
         </div>
       </a>
       {% endfor %}
     </section>
-    -->
 
-    {% if site.posts.size != 0 %}
+    {% if site.posts.size > 8 0 %}
     <div class="buttons">
       <a href="/gallery">
         <div class="blue-button">See more</div>

@@ -1,5 +1,9 @@
+@import "_variables";
+
 #blog-container {
     padding-top: 50px;
+    max-width: 1000px;
+    margin: 0 auto;
 
     .section-header {
         padding-top: 20px;
@@ -9,14 +13,14 @@
 
 #photos {
     /* Prevent vertical gaps */
-    line-height: 2;
+    line-height: 3;
         
-    -webkit-column-count: 5;
-    -webkit-column-gap:   5px;
-    -moz-column-count:    5;
-    -moz-column-gap:      5px;
-    column-count:         5;
-    column-gap:           5px;  
+    -webkit-column-count: 4;
+    -webkit-column-gap:   40px;
+    -moz-column-count:    4;
+    -moz-column-gap:      40px;
+    column-count:         4;
+    column-gap:           40px;  
 }
 
 #photos .post {
@@ -28,6 +32,7 @@
     img {
         width: 100%;
         height: auto;
+        border: 10px solid $color-beige;
     }
 
     .post-info {
@@ -61,7 +66,7 @@
         padding: 10px;
         bottom: 10px;
         position: absolute;
-        background-color: white;
+        background-color: $color-beige;
     }
 
     
