@@ -38,10 +38,9 @@ Terms of Service
 
 • You are not permitted to re-selling the commission or claiming credit for creating the piece
 
-
+<br>
 
  
 
-Contact me through DMs if you want to place a commission or are unsure about anything!
+Contact me through twitter DMs if you want to place a commission or are unsure about anything!
 
-Updated as of Dec 5th, 2020
