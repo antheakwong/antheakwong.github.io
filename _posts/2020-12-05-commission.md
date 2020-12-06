@@ -4,7 +4,7 @@ title: Commission Info
 gallery-image: /assets/images/posts/aysrin_commissions.png
 images: 
 - /assets/images/posts/aysrin_commissions.png
-description: commission info!
+description: Open Dec 6th!
 ---
 
 Icon = $15
