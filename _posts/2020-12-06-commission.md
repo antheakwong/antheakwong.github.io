@@ -7,9 +7,9 @@ images:
 description: Open Dec 6th!
 ---
 
-Icon = $15
+<b>Icon = $15
 
-Full Render (colour, lined, polish) =  $25
+Full Render (colour, lined, polish) =  $25</b>
 
 + $5 for complex background
 
@@ -22,15 +22,15 @@ Won’t draw: NSFW, mecha, offensive/shock content
 <br>
 
 
-Terms of Service
+<b>Terms of Service</b>
 
 • Prices in CAD and fulfilled through paypal
 
 • Payment upfront and non-refundable.
 
-> I will start drawing once I receive payment
+> -> I will start drawing once I receive payment
 
-> If for any reason I am unable to complete your commission, you will be refunded in full
+> -> If for any reason I am unable to complete your commission, you will be refunded in full
 
 • Estimated turnaround time is 1-3 weeks, depending on complexity.
 
