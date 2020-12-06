@@ -7,9 +7,9 @@ images:
 description: Open Dec 6th!
 ---
 
-<b>Icon = $15
+Icon = $15
 
-Full Render (colour, lined, polish) =  $25</b>
+Full Render (colour, lined, polish) =  $25
 
 + $5 for complex background
 
@@ -22,7 +22,7 @@ Won’t draw: NSFW, mecha, offensive/shock content
 <br>
 
 
-<b>Terms of Service</b>
+Terms of Service
 
 • Prices in CAD and fulfilled through paypal
 
