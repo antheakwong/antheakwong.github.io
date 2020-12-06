@@ -3,7 +3,7 @@
 #commissions {
     max-width: 800px;
     margin: 0 auto;
-    margin-top: 80px;
+    margin-top: $navbar-height;
     margin-bottom: 80px;
 
     background-color: $color-beige;
@@ -23,7 +23,11 @@
 @media only screen and (max-device-width: 640px) { 
 
     #commissions {
-        padding: 20px;
+        padding: 40px;
+    }
+
+    strong {
+        font-size: $font-size-bold-mobile !important;
     }
 
 }
