@@ -1,9 +1,10 @@
 @import "_variables";
 
 #commissions {
-    margin-top: 70px;
-    margin-left: 20px;
-    margin-right: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 80px;
+    margin-bottom: 80px;
 
     background-color: $color-beige;
     padding: 40px;
