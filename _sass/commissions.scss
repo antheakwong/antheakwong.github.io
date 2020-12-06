@@ -1,0 +1,28 @@
+@import "_variables";
+
+#commissions {
+    margin-top: 70px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+    background-color: $color-beige;
+    padding: 40px;
+    border-radius: 30px;
+
+    img {
+        max-width: 100%;
+    }
+
+    strong {
+        color: $color-dark-brown;
+        font-size: $font-size-bold;
+    }
+}
+
+@media only screen and (max-device-width: 640px) { 
+
+    #commissions {
+        padding: 20px;
+    }
+
+}

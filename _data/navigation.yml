@@ -5,6 +5,9 @@
 - name: Resume
   link: /#resume
   classname: resume
+- name: Commissions!
+  link: /commissions
+  classname: commissions
 - name: gallery
   link: /gallery
   classname: gallery
