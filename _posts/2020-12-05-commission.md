@@ -13,7 +13,7 @@ Full Render (colour, lined, polish) =  $25
 
 + $5 for complex background
 
-+ $15 per extra character 
++ $15 per extra character  
 
 Will draw: Fanart, OCs, creatures (eg., pets, pokemon)
 
