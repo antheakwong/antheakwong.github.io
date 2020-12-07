@@ -38,3 +38,10 @@ Won’t draw: NSFW, mecha, offensive/shock content
 - You are not permitted to re-sell the commission or claim credit for creating the piece
 
 **Contact me through [twitter DMs](https://twitter.com/aysrin) or [email](mailto:hello@antheakwong.com) if you want to place a commission or have any questions!**
+
+**Commission Status**
+- Full Render: Kristen > sketching
+- Full Render: Cinamin > ready to start
+- Full Render: Joe Graham > ready to start
+- Full Render: Bee > ready to start
+
