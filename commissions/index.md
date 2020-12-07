@@ -43,6 +43,6 @@ Won’t draw: NSFW, mecha, offensive/shock content
 - **Full Render: Kristen** > sketching
 - **Full Render: Cinamin** > ready to colour
 - **Icon: Joe Graham** > colouring
-- **Full Render: Bee** > ready to start
+- **Full Render: Bee** > sketching
 - **Full Render: Hegale** > waiting for ref photo
 
