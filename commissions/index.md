@@ -44,5 +44,5 @@ Won’t draw: NSFW, mecha, offensive/shock content
 - **Full Render: Cinamin** > ready to start
 - **Icon: Joe Graham** > colouring
 - **Full Render: Bee** > ready to start
-- **Full Render: Hegale** > ready to start
+- **Full Render: Hegale** > waiting for ref photo
 
