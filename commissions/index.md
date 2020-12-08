@@ -3,7 +3,7 @@ title: commissions closed currently!
 layout: commissions
 ---
 
-# Commissions Closed currently!
+# Commissions closed currently!
 
 ![commission examples](/assets/images/aysrin_commissions.png)
 
