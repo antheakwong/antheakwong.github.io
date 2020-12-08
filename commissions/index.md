@@ -1,5 +1,5 @@
 ---
-title: commissions
+title: commissions closed currently!
 layout: commissions
 ---
 
