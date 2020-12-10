@@ -41,9 +41,9 @@ Won’t draw: NSFW, mecha, offensive/shock content
 
 **Commission Status:**
 - **Full Render: Kristen** > sketching
-- **Full Render: Cinamin** > ready to colour
-- **Icon: Joe Graham** > colouring
-- **Full Render: Bee** > sketching
+- **Full Render: Cinamin** > cleaning lines
+- **Icon: Joe Graham** > finished!
+- **Full Render: Bee** > cleaning lines
 - **Full Render: Hegale** > sketching (waiting for ref photo)
 - **Full Render: Mahesh** > ready to start
 
