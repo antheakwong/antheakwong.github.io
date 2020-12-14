@@ -45,5 +45,5 @@ Won’t draw: NSFW, mecha, offensive/shock content
 - **Icon: Joe Graham** > finished!
 - **Full Render: Bee** > cleaning lines / base colour
 - **Full Render: Hegale** > sketching (waiting for ref photo)
-- **Full Render: Mahesh** > sketching
+- **Full Render: Mahesh** > colouring
 
