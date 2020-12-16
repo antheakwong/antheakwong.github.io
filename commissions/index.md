@@ -47,3 +47,5 @@ Won’t draw: NSFW, mecha, offensive/shock content
 - **Full Render: Hegale** > sketched (waiting for ref photo)
 - **Full Render: Mahesh** > colouring
 
+last updated: Dec 15
+
