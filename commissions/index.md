@@ -47,5 +47,7 @@ Won’t draw: NSFW, mecha, offensive/shock content
 - **Full Render: Hegale** > waiting for ref photo
 - **Full Render: Mahesh** > finished!
 
+- **Logo Commission: Mahesh's sister** > 
+
 last updated: Dec 22
 
