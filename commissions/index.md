@@ -43,11 +43,11 @@ Won’t draw: NSFW, mecha, offensive/shock content
 - **Full Render: Kristen** > lining
 - **Full Render: Cinamin** > finished!
 - **Icon: Joe Graham** > finished!
-- **Full Render: Bee** > colouring/final touches
+- **Full Render: Bee** > final touches
 - **Full Render: Hegale** > waiting for ref photo
 - **Full Render: Mahesh** > finished!
 
-- **Logo Commission: Mahesh's sister** > 
+- **Logo Commission: Mahesh's sister** > ready to start
 
-last updated: Dec 22
+last updated: Dec 23
 
