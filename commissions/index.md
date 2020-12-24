@@ -49,5 +49,5 @@ Won’t draw: NSFW, mecha, offensive/shock content
 
 - **Logo Commission: Mandira** > ready to start
 
-last updated: Dec 23
+last updated: Dec 24
 
