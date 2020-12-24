@@ -43,7 +43,7 @@ Won’t draw: NSFW, mecha, offensive/shock content
 - **Full Render: Kristen** > lining
 - **Full Render: Cinamin** > finished!
 - **Icon: Joe Graham** > finished!
-- **Full Render: Bee** > final touches done!
+- **Full Render: Bee** > finished!
 - **Full Render: Hegale** > waiting for ref photo
 - **Full Render: Mahesh** > finished!
 
