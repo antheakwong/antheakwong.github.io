@@ -44,10 +44,10 @@ Won’t draw: NSFW, mecha, offensive/shock content
 - **Full Render: Cinamin** > finished!
 - **Icon: Joe Graham** > finished!
 - **Full Render: Bee** > finished!
-- **Full Render: Hegale** > waiting for ref photo
+- **Full Render: Hegale** > waiting for ref photo (on hold)
 - **Full Render: Mahesh** > finished!
 
-- **Logo Commission: Mandira** > ready to start
+- **Logo Commission: Mandira** > sketching
 
-last updated: Dec 24
+last updated: Dec 27
 
