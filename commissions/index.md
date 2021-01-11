@@ -40,14 +40,14 @@ Won’t draw: NSFW, mecha, offensive/shock content
 **Contact me through [twitter DMs](https://twitter.com/aysrin) or [email](mailto:hello@antheakwong.com) if you want to place a commission or have any questions!**
 
 **Commission Status:**
-- **Full Render: Kristen** > lining
+- **Full Render: Kristen** > finished!
 - **Full Render: Cinamin** > finished!
 - **Icon: Joe Graham** > finished!
 - **Full Render: Bee** > finished!
 - **Full Render: Hegale** > waiting for ref photo (on hold)
 - **Full Render: Mahesh** > finished!
 
-- **Logo Commission: Mandira** > sketching
+- **Logo Commission: Mandira** > sketching v02
 
-last updated: Dec 27
+last updated: Jan 10
 
