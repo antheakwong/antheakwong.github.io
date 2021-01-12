@@ -3,7 +3,7 @@ title: commissions closed currently!
 layout: commissions
 ---
 
-# Commissions closed! (update: I'm currently reevaluating prices for when they open again in late Jan 2021, thank you for your patience!)
+# Commissions closed! (update: I'm currently reevaluating prices for when they open again in late Jan, thank you for your patience!)
 
 ![commission examples](/assets/images/aysrin_commissions.png)
 
