@@ -3,7 +3,7 @@ title: commissions closed currently!
 layout: commissions
 ---
 
-# Commissions closed currently!
+# Commissions closed! (update: I'm currently reevaluating prices for when they open again in late Jan 2021, thank you for your patience!)
 
 ![commission examples](/assets/images/aysrin_commissions.png)
 
@@ -49,5 +49,5 @@ Won’t draw: NSFW, mecha, offensive/shock content
 
 - **Logo Commission: Mandira** > sketching v02
 
-last updated: Jan 10
+last updated: Jan 12
 
