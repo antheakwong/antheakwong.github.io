@@ -42,11 +42,6 @@ Won’t draw: NSFW, mecha, offensive/shock content
 **Commission Status:**
 - **Full Render: Hegale** > sketching
 - **Logo Commission: Mandira** > lining
-last updated: Jan 14
 
-- **Full Render: Kristen** > finished!
-- **Full Render: Cinamin** > finished!
-- **Icon: Joe Graham** > finished!
-- **Full Render: Bee** > finished!
-- **Full Render: Mahesh** > finished!
+last updated: Jan 14
 
