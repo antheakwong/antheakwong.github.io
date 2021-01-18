@@ -43,5 +43,5 @@ Won’t draw: NSFW, mecha, offensive/shock content
 - **Full Render: Hegale** > finished!
 - **Logo Commission: Mandira** > final adjustments (awaiting response)
 
-last updated: Jan 17
+last updated: Jan 18
 
