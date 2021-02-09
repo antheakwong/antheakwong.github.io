@@ -40,8 +40,7 @@ Won’t draw: NSFW, mecha, offensive/shock content
 **Contact me through [twitter DMs](https://twitter.com/aysrin) or [email](mailto:hello@antheakwong.com) if you want to place a commission or have any questions!**
 
 # **Commission Statuses:**
-- **Logo Commission: Mandira** > finished!
-- **Full Render Commission: Mitch** > cleaning sketch + base colours
+- **Full Render Commission: Mitch** > colouring
 
-last updated: Feb 1
+last updated: Feb 8
 
