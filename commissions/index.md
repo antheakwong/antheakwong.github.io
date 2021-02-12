@@ -3,7 +3,7 @@ title: commissions closed currently!
 layout: commissions
 ---
 
-# Commissions closed! (update: I'm currently reevaluating prices for when they open again in early Feb, thank you for your patience!)
+# Commissions closed! (update: I'm currently reevaluating prices for when they open again in Feb 14, thank you for your patience!)
 
 ![commission examples](/assets/images/aysrin_commissions.png)
 
@@ -40,7 +40,7 @@ Won’t draw: NSFW, mecha, offensive/shock content
 **Contact me through [twitter DMs](https://twitter.com/aysrin) or [email](mailto:hello@antheakwong.com) if you want to place a commission or have any questions!**
 
 # **Commission Statuses:**
-- **Full Render Commission: Mitch** > colouring
+- **Full Render Commission: Mitch** > final touches
 
-last updated: Feb 8
+last updated: Feb 11
 
