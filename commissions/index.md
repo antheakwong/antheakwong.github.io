@@ -3,17 +3,20 @@ title: commissions closed currently!
 layout: commissions
 ---
 
-# Commissions closed! (update: I'm currently reevaluating prices for when they open again in Feb 14, thank you for your patience!)
+# Commissions opening Feb 14, thank you for your patience!
 
 ![commission examples](/assets/images/aysrin_commissions.png)
 
-**Icon = $15**
+**Icon/Profile = $25 CAD**
 
-**Full Render** (colour, lined, polish) **= $25**
-
-> $5 for complex background
+**Full Render = $40 CAD**
 
 > $15 per extra character
+
+> depending on complexity, extra charges may apply
+
+> standard backgrounds are white or solid colour. If you want something else, please let me know! Again, extra charges may apply depending on the complexity.
+
 
 Will draw: Fanart, OCs, creatures (eg., pets, pokemon)
 
@@ -21,11 +24,11 @@ Won’t draw: NSFW, mecha, offensive/shock content
 
 
 
-**Terms of Service**
+**Commission Info:**
 
-- Prices in CAD and fulfilled through paypal
+- include all visual references and details about the characters. Be as specific as possible.
 
-- Payment upfront and non-refundable.
+- paypal payment upfront (I will send an invoice)
 
     - I will start drawing once I receive payment
 
@@ -33,14 +36,20 @@ Won’t draw: NSFW, mecha, offensive/shock content
 
 - Estimated turnaround time is 1-3 weeks, depending on complexity.
 
-- Commissions for professional use (twitch, youtube banners, etc.) must be credited in the description
 
-- You are not permitted to re-sell the commission or claim credit for creating the piece
+**Terms of Service:**
+- I have the right to post any commissioned work on my social media unless otherwise requested. 
+
+- You are not permitted to redistribute the commission for profit or claim credit for my work. 
+    - reposts are allowed as long as credit and a link to my work is included.
+
+- I reserve the right to refuse any commissions with content that I may find uncomfortable.
 
 **Contact me through [twitter DMs](https://twitter.com/aysrin) or [email](mailto:hello@antheakwong.com) if you want to place a commission or have any questions!**
 
-# **Commission Statuses:**
-- **Full Render Commission: Mitch** > final touches
+# Commission Statuses:
 
-last updated: Feb 11
+- **Full Render Commission: Mitch** > awaiting reply
+
+last updated: Feb 13
 
