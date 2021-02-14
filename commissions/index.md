@@ -5,9 +5,9 @@ layout: commissions
 
 # Commissions opening Feb 14, thank you for your patience!
 
-![commission examples](/assets/images/aysrin_commissions_tos_1.png)
-![commission examples](/assets/images/aysrin_commissions_icons_2.png) 
-![commission examples](/assets/images/aysrin_commissions_fullrender_3.png)
+![commission examples](/assets/images/aysrin_commissions_tos_1.PNG)
+![commission examples](/assets/images/aysrin_commissions_icons_2.PNG) 
+![commission examples](/assets/images/aysrin_commissions_fullrender_3.PNG)
 
 **Icon/Profile = $25 CAD**
 
