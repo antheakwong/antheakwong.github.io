@@ -3,7 +3,7 @@ title: commissions open!
 layout: commissions
 ---
 
-# Commissions opening Feb 14, thank you for your patience!
+# Commissions open!
 
 ![commission examples](/assets/images/aysrin_commissions_tos_1.PNG)
 ![commission examples](/assets/images/aysrin_commissions_icons_2.PNG) 
