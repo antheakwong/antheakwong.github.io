@@ -5,7 +5,9 @@ layout: commissions
 
 # Commissions opening Feb 14, thank you for your patience!
 
-![commission examples](/assets/images/aysrin_commissions.png)
+![commission examples](/assets/images/aysrin_commissions_tos_1.png)
+![commission examples](/assets/images/aysrin_commissions_icons_2.png) 
+![commission examples](/assets/images/aysrin_commissions_fullrender_3.png)
 
 **Icon/Profile = $25 CAD**
 
@@ -24,7 +26,7 @@ Won’t draw: NSFW, mecha, offensive/shock content
 
 
 
-**Commission Info:**
+**how to get started:**
 
 - include all visual references and details about the characters. Be as specific as possible.
 
