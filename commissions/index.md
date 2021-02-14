@@ -41,13 +41,14 @@ Won’t draw: NSFW, mecha, offensive/shock content
 - I have the right to post any commissioned work on my social media unless otherwise requested. 
 
 - You are not permitted to redistribute the commission for profit or claim credit for my work. 
+
     - reposts are allowed as long as credit and a link to my work is included.
 
 - I reserve the right to refuse any commissions with content that I may find uncomfortable.
 
 **Contact me through [twitter DMs](https://twitter.com/aysrin) or [email](mailto:hello@antheakwong.com) if you want to place a commission or have any questions!**
 
-# Commission Statuses:
+# **Commission Statuses:**
 
 - **Full Render Commission: Mitch** > awaiting reply
 
