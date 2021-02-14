@@ -11,11 +11,11 @@ layout: commissions
 
 **Full Render = $40 CAD**
 
-> $15 per extra character
+> - $15 per extra character
 
-> depending on complexity, extra charges may apply
+> - depending on complexity, extra charges may apply
 
-> standard backgrounds are white or solid colour. If you want something else, please let me know! Again, extra charges may apply depending on the complexity.
+> - standard backgrounds are white or solid colour. If you want something else, please let me know! Again, extra charges may apply depending on the complexity.
 
 
 Will draw: Fanart, OCs, creatures (eg., pets, pokemon)
