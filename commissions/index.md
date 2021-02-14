@@ -26,15 +26,15 @@ Won’t draw: NSFW, mecha, offensive/shock content
 
 
 
-**how to get started:**
+**How to get started:**
 
-- include all visual references and details about the characters. Be as specific as possible.
+- Include all visual references and details about the characters. Be as specific as possible.
 
-- paypal payment upfront (I will send an invoice)
+- Payment upfront via paypal (I will send an invoice)
 
     - I will start drawing once I receive payment
 
-    - If for any reason I am unable to complete your commission, you will be refunded in full
+    - If for any reason I am unable to complete your commission, you will be refunded in full.
 
 - Estimated turnaround time is 1-3 weeks, depending on complexity.
 
@@ -44,7 +44,7 @@ Won’t draw: NSFW, mecha, offensive/shock content
 
 - You are not permitted to redistribute the commission for profit or claim credit for my work. 
 
-    - reposts are allowed as long as credit and a link to my work is included.
+    - You may repost the commission as long as credit and a link to my work is included (eg., tagging my twitter handle @aysrin).
 
 - I reserve the right to refuse any commissions with content that I may find uncomfortable.
 
