@@ -40,7 +40,7 @@ Won’t draw: NSFW, mecha, offensive/shock content
 
 
 **Terms of Service:**
-- I have the right to post any commissioned work on my social media unless otherwise requested. 
+- I have the right to post any commissioned work on my social media unless otherwise requested. (will be watermarked/lower resolution)
 
 - You are not permitted to redistribute the commission for profit or claim credit for my work. 
 
