@@ -50,7 +50,7 @@ Won’t draw: NSFW, mecha, offensive/shock content
 
 **Contact me through [twitter DMs](https://twitter.com/aysrin) or [email](mailto:hello@antheakwong.com) if you want to place a commission or have any questions!**
 
-# **Commission Statuses:** 4/5 slots 
+# **Commission Statuses:** 4/5 slots taken!
 
 - **Full Render Commission: Mitch** > final details done (awaiting reply)
 - **Full Render Commission: Jeremy** > ready to start
