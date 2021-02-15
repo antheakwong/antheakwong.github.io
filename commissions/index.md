@@ -60,5 +60,5 @@ Won’t draw: NSFW, mecha, offensive/shock content
 - **Full Render Commission: Swampy** > ready to start
 - **Icon Commission: Rob** > ready to start
 
-last updated: Feb 14
+last updated: Feb 15
 
