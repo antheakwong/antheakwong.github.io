@@ -1,9 +1,9 @@
 ---
-title: commissions open!
+title: commissions closed!
 layout: commissions
 ---
 
-# Commissions open!
+# Commissions closed!
 
 ![commission examples](/assets/images/aysrin_commissions_tos_1.PNG)
 ![commission examples](/assets/images/aysrin_commissions_icons_2.PNG) 
@@ -50,13 +50,15 @@ Won’t draw: NSFW, mecha, offensive/shock content
 
 **Contact me through [twitter DMs](https://twitter.com/aysrin) or [email](mailto:hello@antheakwong.com) if you want to place a commission or have any questions!**
 
-# **Commission Statuses: 4/5 slots taken!** 
+# **Commission Statuses:** 
 
 - **Full Render Commission: Mitch** > final details done (awaiting reply)
 
 - **Icon Commission: Jeremy** > ready to start
 - **Full Render Commission: Mackenzles** > ready to start
 - **Icon Commission: Frenchfry** > ready to start
+- **Full Render Commission: Swampy** > ready to start
+- **Icon Commission: Rob** > ready to start
 
 last updated: Feb 14
 
