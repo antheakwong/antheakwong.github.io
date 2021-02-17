@@ -52,7 +52,7 @@ Won’t draw: NSFW, mecha, offensive/shock content
 
 # **Commission Statuses:** 
 
-- **Full Render Commission: Mitch** > final details done (awaiting reply)
+- **Full Render Commission: Mitch** > done!
 
 - **Icon Commission: Jeremy** > sketching
 - **Full Render Commission: Mackenzles** > ready to start
