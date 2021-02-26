@@ -52,8 +52,6 @@ Won’t draw: NSFW, mecha, offensive/shock content
 
 # **Commission Statuses:** 
 
-- **Full Render Commission: Mitch** > done!
-
 - **Icon Commission: Jeremy** > cleaning lines/base colour
 - **Full Render Commission: Mackenzles** > cleaning lines/base colour
 - **Icon Commission: Frenchfry** > colouring
