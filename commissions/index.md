@@ -55,8 +55,8 @@ Won’t draw: NSFW, mecha, offensive/shock content
 - **Icon Commission: Jeremy** > done!
 - **Full Render Commission: Mackenzles** > done!
 - **Icon Commission: Frenchfry** > done!
-- **Full Render Commission: Swampy** > shading/final details
+- **Full Render Commission: Swampy** > final details (awaiting response)
 - **Icon Commission: Rob** > done!
 
-last updated: Mar 14
+last updated: Mar 15
 
