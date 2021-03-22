@@ -52,7 +52,7 @@ Won’t draw: NSFW, mecha, offensive/shock content
 
 # **Commission Statuses:** 
 
-- **Icon Commission: Sol** > cleaning lines, base colours
+- **Icon Commission: Sol** > done!
 - **Emote Commission: hype** > sketching
 - 
 - **Full Render Commission: Swampy** > done!
