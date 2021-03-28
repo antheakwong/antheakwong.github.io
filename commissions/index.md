@@ -48,15 +48,15 @@ Won’t draw: NSFW, mecha, offensive/shock content
 
 - I reserve the right to refuse any commissions with content that I may find uncomfortable.
 
-**Contact me through [twitter DMs](https://twitter.com/aysrin) or [email](mailto:hello@antheakwong.com) if you want to place a commission or have any questions!**
+**Contact me through [twitter DMs](https://twitter.com/aysrin) or [email](mailto: anthea.wh.kwong@gmail.com)(anthea.wh.kwong@gmail.com) if you want to place a commission or have any questions!**
 
 # **Commission Statuses:** 
 
 
-- **Emote Commission: hype** > colours
+- **Emote Commission: hype** > colouring
 - **Full Render Commission x2: John** > sketching
 
 
 
-last updated: Mar 26
+last updated: Mar 28
 
