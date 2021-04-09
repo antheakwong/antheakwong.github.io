@@ -55,6 +55,7 @@ Won’t draw: NSFW, mecha, offensive/shock content
 
 - **Emote Commission: hype** > done!
 - **Full Render Commission x2: John** > sketching
+- **Full Render Commission: Joy** > sketching
 
 
 
