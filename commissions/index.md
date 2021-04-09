@@ -1,9 +1,9 @@
 ---
-title: commissions closed!
+title: commissions
 layout: commissions
 ---
 
-# Commissions closed!
+# Commissions Info
 
 ![commission examples](/assets/images/aysrin_commissions_tos_1.PNG)
 ![commission examples](/assets/images/aysrin_commissions_icons_2.PNG) 
@@ -58,5 +58,5 @@ Won’t draw: NSFW, mecha, offensive/shock content
 
 
 
-last updated: Mar 31
+last updated: apr 8
 
