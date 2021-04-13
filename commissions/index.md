@@ -1,5 +1,5 @@
 ---
-title: commissions
+title: commissions closed currently!
 layout: commissions
 ---
 
@@ -50,14 +50,12 @@ Won’t draw: NSFW, mecha, offensive/shock content
 
 **Contact me through [twitter DMs](https://twitter.com/aysrin) or [email](mailto: anthea.wh.kwong@gmail.com)(anthea.wh.kwong@gmail.com) if you want to place a commission or have any questions!**
 
-# **Commission Statuses:** 
+# **Commission Queue:** 
 
 
-- **Emote Commission: hype** > done!
 - **Full Render Commission x2: John** > sketching
-- **Full Render Commission: Joy** > sketching
 
 
 
-last updated: apr 8
+last updated: apr 12
 
