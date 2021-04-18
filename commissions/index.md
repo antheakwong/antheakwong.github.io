@@ -53,9 +53,9 @@ Won’t draw: NSFW, mecha, offensive/shock content
 # **Commission Queue:** 
 
 
-- **Full Render Commission x2: John** > colours
+- **Full Render Commission x2: John** > colouring
 
 
 
-last updated: apr 14
+last updated: apr 18
 
