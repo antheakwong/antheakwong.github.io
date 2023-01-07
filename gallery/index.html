@@ -12,17 +12,42 @@ layout: blog
         Coming soon! 
         {% endif %}
         {% for post in site.posts %}
-        <div class="post">
-            <a href="{{ post.url }}">
-                <img class="post-image" src="{{post.gallery-image}}">
-                <div class="post-info">
-                    <div class="post-text">
-                        <span class="article-title">{{ post.title }}</span>
-                        <div class="desc">{{ post.description }}</div>
+            {% if post.type == "gallery" %}
+            <div class="post">
+                <a href="{{ post.url }}">
+                    <img class="post-image" src="{{post.gallery-image}}">
+                    <div class="post-info">
+                        <div class="post-text">
+                            <span class="article-title">{{ post.title }}</span>
+                            <div class="desc">{{ post.description }}</div>
+                        </div>
                     </div>
-                </div>
-            </a>
-        </div>
+                </a>
+            </div>
+            {% endif %}
+        {% endfor %}
+    </section>
+
+    <div class="section-header">wool sculptures</div>
+
+    <section id="photos">
+        {% if site.posts.size == 0 %}
+        Coming soon! 
+        {% endif %}
+        {% for post in site.posts %}
+            {% if post.type == "wool" %}
+            <div class="post">
+                <a href="{{ post.url }}">
+                    <img class="post-image" src="{{post.gallery-image}}">
+                    <div class="post-info">
+                        <div class="post-text">
+                            <span class="article-title">{{ post.title }}</span>
+                            <div class="desc">{{ post.description }}</div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            {% endif %}
         {% endfor %}
     </section>
 </div>

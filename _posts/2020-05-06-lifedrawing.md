@@ -10,6 +10,7 @@ images:
 - /assets/images/posts/lifedrawing/5.jpg
 - /assets/images/posts/lifedrawing/6.jpg
 description: from Sept 2018-Apr 2019
+type: gallery
 ---
 
 from Sept 2018-Apr 2019
