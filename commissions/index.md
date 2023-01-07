@@ -3,7 +3,7 @@ title: commissions closed currently!
 layout: commissions
 ---
 
-# Commissions Info
+# Commissions Info (closed indefinitely!)
 
 ![commission examples](/assets/images/aysrin_commissions_tos_1.PNG)
 ![commission examples](/assets/images/aysrin_commissions_icons_2.PNG) 
@@ -52,10 +52,7 @@ Won’t draw: NSFW, mecha, offensive/shock content
 
 # **Commission Queue:** 
 
-
-- **Full Render Commission x2: John** > done! 
-
 :)
 
-last updated: may 10
+last updated: jan 7, 2023
 
