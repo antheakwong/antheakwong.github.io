@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 
-gallery-image: /assets/images/posts/artwork/bladestorm_webresize.png
+gallery-image: /assets/images/posts/artwork/let's go! FINAL WEBSIZE_2022_0425.png
 images: 
-- /assets/images/posts/artwork/bladestorm_webresize.png
+- /assets/images/posts/artwork/let's go! FINAL WEBSIZE_2022_0425.png
 description: 2021
 type: gallery
 ---
