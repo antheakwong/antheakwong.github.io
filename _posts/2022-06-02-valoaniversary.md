@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: team
 gallery-image: /assets/images/posts/artwork/let's go! FINAL WEBSIZE2.png
 images: 
 - /assets/images/posts/artwork/let's go! FINAL WEBSIZE2.png
