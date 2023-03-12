@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Floriography
-gallery-image: /assets/images/posts/artwork/Shamir_aysrin_bookmark_webresize.png
+gallery-image: /assets/images/posts/artwork/Shamir_aysrin_bookmark_webresize2.png
 images: 
-- /assets/images/posts/artwork/Shamir_aysrin_bookmark_webresize.png
+- /assets/images/posts/artwork/Shamir_aysrin_bookmark_webresize2.png
 - /assets/images/posts/artwork/Yuri_aysrin_button_resize.png
 description: 2021
 type: gallery
