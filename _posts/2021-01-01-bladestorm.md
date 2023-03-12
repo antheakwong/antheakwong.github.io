@@ -4,7 +4,7 @@ title: bladestorm
 gallery-image: /assets/images/posts/artwork/bladestorm_webresize.png
 images: 
 - /assets/images/posts/artwork/bladestorm_webresize.png
-description:2021
+description: 2021
 type: gallery
 ---
 
