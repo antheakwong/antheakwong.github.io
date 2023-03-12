@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FE Floriography Zine
+title: Floriography
 gallery-image: /assets/images/posts/artwork/Shamir_aysrin_bookmark_webresize.png
 images: 
 - /assets/images/posts/artwork/Shamir_aysrin_bookmark_webresize.png
