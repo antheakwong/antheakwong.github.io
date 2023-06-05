@@ -1,9 +1,9 @@
 ---
-title: commissions closed currently!
+title: commissions closed!
 layout: commissions
 ---
 
-# Commissions Info (closed indefinitely!)
+# Commissions Info (indefinite hiatus sorry!)
 
 ![commission examples](/assets/images/aysrin_commissions_tos_1.PNG)
 ![commission examples](/assets/images/aysrin_commissions_icons_2.PNG) 
