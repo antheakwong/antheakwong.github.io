@@ -40,11 +40,11 @@ Won’t draw: NSFW, mecha, offensive/shock content
 
 
 **Terms of Service:**
-- I have the right to post any commissioned work on my social media unless otherwise requested. (will be watermarked/lower resolution)
+- I have the right to post any commissioned work on my social media unless otherwise requested. (posts will be watermarked/lower resolution)
 
 - You are not permitted to redistribute the commission for profit or claim credit for my work. 
 
-    - You may repost the commission as long as credit and a link to my work is included (eg., tagging my twitter handle @aysrin).
+    - You may repost the commission as long as credit and a link to my work is included (eg., tagging my handle @aysrin).
 
 - I reserve the right to refuse any commissions with content that I may find uncomfortable.
 
