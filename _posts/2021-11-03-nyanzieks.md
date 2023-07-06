@@ -1,4 +1,3 @@
-2021-11-03-nyanzieks.md
 ---
 layout: post
 title: Nyan Zieks
@@ -14,3 +13,4 @@ type: wool
 
 Nyan Zieks from hit game The Great Ace Attorney <br>
 made oct 14 - nov 3, 2021
+
