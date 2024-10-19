@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Arlecchino
-gallery-image: /assets/images/posts/arle_P1019159 frontview final websize.png
+gallery-image: /assets/images/posts/arlecchino/arle_P1019159 frontview final websize.png
 images: 
 - /assets/images/posts/arlecchino/arle_P1019183__ quarterview_webresize.png
 - /assets/images/posts/arlecchino/arle_P1019159 frontview final websize.png
