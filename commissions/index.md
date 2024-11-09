@@ -3,28 +3,11 @@ title: commissions closed!
 layout: commissions
 ---
 
-# Commissions Info (indefinite hiatus sorry!)
+# Commissions Info
 
-![commission examples](/assets/images/aysrin_commissions_tos_1.PNG)
-![commission examples](/assets/images/aysrin_commissions_icons_2.PNG) 
-![commission examples](/assets/images/aysrin_commissions_fullrender_3.PNG)
+My commissions are closed indefinitely due to time constraints and full time work sorry! 
 
-**Icon/Profile = $25 CAD**
-
-**Full Render = $40 CAD**
-
-> - $15 per extra character
-
-> - depending on complexity, extra charges may apply
-
-> - standard backgrounds are white or solid colour. If you want something else, please let me know! Again, extra charges may apply depending on the complexity.
-
-
-Will draw: Fanart, OCs, creatures (eg., pets, pokemon)
-
-Won’t draw: NSFW, mecha, offensive/shock content
-
-
+**Contact me through [twitter DMs](https://twitter.com/aysrin) or [email](mailto: anthea.wh.kwong@gmail.com)(anthea.wh.kwong@gmail.com) if you have any project requests or have any questions!**
 
 **How to get started:**
 
@@ -36,8 +19,6 @@ Won’t draw: NSFW, mecha, offensive/shock content
 
     - If for any reason I am unable to complete your commission, you will be refunded in full.
 
-- Estimated turnaround time is 1-3 weeks, depending on complexity.
-
 
 **Terms of Service:**
 - I have the right to post any commissioned work on my social media unless otherwise requested. (posts will be watermarked/lower resolution)
@@ -48,7 +29,7 @@ Won’t draw: NSFW, mecha, offensive/shock content
 
 - I reserve the right to refuse any commissions with content that I may find uncomfortable.
 
-**Contact me through [twitter DMs](https://twitter.com/aysrin) or [email](mailto: anthea.wh.kwong@gmail.com)(anthea.wh.kwong@gmail.com) if you want to place a commission or have any questions!**
+
 
 # **Commission Queue:** 
 
