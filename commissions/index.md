@@ -5,9 +5,9 @@ layout: commissions
 
 # Commissions Info
 
-My commissions are closed indefinitely due to time constraints and full time work sorry! 
+**My commissions are closed indefinitely due to time constraints and full time work sorry!** 
 
-**Contact me through [twitter DMs](https://twitter.com/aysrin) or [email](mailto: anthea.wh.kwong@gmail.com)(anthea.wh.kwong@gmail.com) if you have any project requests or have any questions!**
+**But feel free to contact me through [email](mailto: anthea.wh.kwong@gmail.com)(anthea.wh.kwong@gmail.com) if you have any project proposals or have any questions!**
 
 **How to get started:**
 
